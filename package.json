@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spwisner/number-formatter.git"
+  },
+  "author": "“Steve <“steve@stevewisner.com”> (www.stevewisner.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spwisner/number-formatter/issues"
+  },
+  "homepage": "https://github.com/spwisner/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
