@@ -5,16 +5,16 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @spwisner/number-formatter`
+  `npm install @spwisner/project-name`
 
 ## Usage
 
-    var numFormatter = require('@spwisner/number-formatter');
+    var numFormatter = require('@spwisner/project-name');
 
     var formattedNum = numFormatter(35666);
   
   
-  Output should be `35,666`
+     Output should be `35,666`
 
 
 ## Tests
