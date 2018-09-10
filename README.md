@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/spwisner/number-formatter.svg?branch=master)](https://travis-ci.org/spwisner/number-formatter)
 
+[![Coverage Status](https://coveralls.io/repos/github/spwisner/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/spwisner/number-formatter?branch=master)
+
 Number Formatter
 =========
 
